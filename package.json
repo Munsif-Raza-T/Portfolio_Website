@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Munsif-Raza-T.github.io/Portfolio_Website'",
+  "homepage": "https://Munsif-Raza-T.github.io/Portfolio_Website",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
