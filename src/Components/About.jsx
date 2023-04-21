@@ -16,27 +16,28 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/mosaic.svg";
+import image from "../images/about.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "About section image";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a technology enthusiast and final year student at Mehran University of Jamshoro Pakistan, I am passionate about using my skills and knowledge in data science to make a meaningful impact in the industry. With 2+ years of experience under my belt, including internships and freelance work, I have developed a strong foundation in data analysis, visualization, machine learning, and deep learning. In addition to my professional pursuits, I am an active participant in various volunteer works and communities such as AWS CC, GDSC, and MLSA, where I have had the privilege of guiding and mentoring over 20k students. I am always seeking to improve myself and take on new challenges.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "Data Analysis",
+  "Machine Learning",
+  "Deep Learning",
+  "Problem Solving",
+  "Public Speaking",
+  "Leadership"
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "You are, what you repeatedly do. Excellence then is not an act but a habit";
 
 const About = () => {
   return (
